@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Homework tasks for stepik course https://stepik.org/course/575/
+Homework tasks from stepik course https://stepik.org/course/575/
